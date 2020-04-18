@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: f5cf8a2fff35eb34fab408f6c29a428c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gunner_shoot-E_0
+    21300002: gunner_shoot-E_1
+    21300004: gunner_shoot-E_2
+    21300006: gunner_shoot-E_3
+    21300008: gunner_shoot-E_4
+    21300010: gunner_shoot-E_6
+    21300012: gunner_shoot-E_7
+    21300014: gunner_shoot-E_8
+    21300016: gunner_shoot-E_11
+    21300018: gunner_shoot-E_13
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gunner_shoot-E_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 41
+        width: 52
+        height: 50
+      alignment: 9
+      pivot: {x: 0.44673488, y: 0.54748183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208624c875dd7c048b5ff39c0da77c47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunner_shoot-E_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 30
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5589314, y: 0.66373104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c26ffe4d14f9f8459fcf65fa6af9e9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunner_shoot-E_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 43
+        width: 52
+        height: 41
+      alignment: 9
+      pivot: {x: 0.42390707, y: 0.6254604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67bb632d6d279c4292d7721a6b78198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunner_shoot-E_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 34
+        width: 44
+        height: 53
+      alignment: 9
+      pivot: {x: 0.57194173, y: 0.64931446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830635ba463fbc6438475117b51c34a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunner_shoot-E_6
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 44
+        width: 62
+        height: 43
+      alignment: 9
+      pivot: {x: 0.42979777, y: 0.5736155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10c01e23ad13ef46ab7c73a61985092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunner_shoot-E_7
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 27
+        width: 50
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5949634, y: 0.64838123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebd49ecfc4010a4591cd48096b0b91b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9d4548df345bcf749af319905e19f54f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

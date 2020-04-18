@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 82d32bc82dffada4881d0bed9646e862
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyPrefab: {fileID: 7837161801951506776, guid: 5be24d20d3131bc44bbb096c9830df5b,
+      type: 3}
+  - enemyContainer: {instanceID: 0}
+  - spawnManager: {instanceID: 0}
+  - gameController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
